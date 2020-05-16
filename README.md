@@ -1,3 +1,3 @@
-# angular-g27yqu
+# Angular tutorial Sample App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-g27yqu)
+Para seguir o tutorial na integra acesse [Angular - Getting started with a basic Angular app](https://angular.io/start)
